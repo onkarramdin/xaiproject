@@ -4,3 +4,9 @@ opencv-python
 pillow
 matplotlib
 scikit-learn
+scipy
+torch
+torchvision
+grad-cam
+captum
+jupyter
